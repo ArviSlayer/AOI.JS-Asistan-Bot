@@ -1,2 +1,8 @@
-# AOI.JS-Asistan-Bot
-AOI.JS Kütüphanesi Kullanılarak Yapılan Moderasyon Sistemi
+# Bota BİLEREK 3 Farklı Hata Bırakıldı
+3 Hatayıda Çözüp Botu Başlatabilirsiniz
+# 
+
+# İLETİŞİM
+> Discord: ArviS#0011
+
+> İnstagram: @arvis_here

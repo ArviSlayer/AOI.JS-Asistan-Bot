@@ -1,0 +1,35 @@
+{
+    "name": "arvis-hunterk-asistan",
+    "version": "1.0.0",
+    "description": "ArviS#0011 - HunterK - Asistan Botu",
+    "main": "asistan.js",
+    "scripts": {
+      "start:dev": "nodemon asistan.js"
+      },
+
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArviSlayer/AOI.JS-Asistan-Bot.git"
+      },
+
+
+   "engines": {
+     "node": "18.x"
+   },
+
+  "author": "ArviS#0011",
+  "license": "MIT",
+"bugs": {
+    "url": "https://github.com/ArviSlayer/AOI.JS-Asistan-Bot/issues"
+  },
+
+  "homepage": "https://github.com/ArviSlayer/AOI.JS-Asistan-Bot#readme",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "dbd.js": "^4.0.0",
+    "fs": "^0.0.2",
+    "nodemon": "^2.0.20",
+    "yt-search": "^2.9.0",
+    "ytdl-core": "^4.8.3"
+  }
+}
